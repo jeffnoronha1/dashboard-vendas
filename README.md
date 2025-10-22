@@ -96,7 +96,7 @@ Para explorar o modelo de dados, as consultas do Power Query e todas as medidas 
 
 ## 🧑‍💻 Autor
 
-**Jefferson Evangelista Noronha**
+**Jefferson Evangelista de Noronha**
 
   * [Linkedin](https://www.linkedin.com/in/jeffnoronha/)
   * [GitHub](https://github.com/jeffnoronha1)
