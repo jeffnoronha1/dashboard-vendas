@@ -43,8 +43,8 @@ Foi implementado um **Esquema Estrela** (Star Schema) para otimizar a performanc
       * `dFuncionario` (conectada pela `ID_Vendedor`)
       * `dCliente` (conectada pela `ID_Cliente`)
 
-<img src="./imagens/img-modelo-dados.png" alt="Imagem do modelo das entidades" width="1024"/>
-
+![Imagem do modelo das entidades](./imagens/img-modelo-dados.png)
+<!-- <img src="./imagens/img-modelo-dados.png" alt="Imagem do modelo das entidades" width="1024"/> -->
 ### 3\. Cálculos e Medidas (DAX)
 
 Todas as métricas de negócio foram criadas usando **DAX (Data Analysis Expressions)** para garantir cálculos dinâmicos e precisos. As principais medidas incluem:
