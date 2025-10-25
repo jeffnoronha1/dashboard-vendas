@@ -2,8 +2,8 @@
 
 Este projeto consiste em um dashboard de análise de vendas, desenvolvido integralmente no Power BI. O objetivo é consolidar os principais indicadores de performance (KPIs) e fornecer uma visão interativa do desempenho comercial, comparando resultados com o ano anterior.
 
-<img src="./imagens/img-dashboard.png" alt="Imagem do Dashboard" width="1024"/>
-
+![Imagem do Dashboard](./imagens/img-dashboard.png)
+<!-- <img src="./imagens/img-dashboard.png" alt="Imagem do Dashboard" width="1024"/> -->
 ## 🔗 Dashboard Interativo
 
 Para uma melhor experiência e para testar a interatividade dos filtros e visuais, o dashboard está disponível publicamente no link abaixo:
