@@ -43,7 +43,7 @@ Foi implementado um **Esquema Estrela** (Star Schema) para otimizar a performanc
       * `dFuncionario` (conectada pela `ID_Vendedor`)
       * `dCliente` (conectada pela `ID_Cliente`)
 
-![Imagem do modelo das entidades](imagens/img-modelo-dados.png)
+![Imagem do modelo das entidades](./../imagens/img-modelo-dados.png)
 <!-- <img src="./imagens/img-modelo-dados.png" alt="Imagem do modelo das entidades" width="1024"/> -->
 ### 3\. Cálculos e Medidas (DAX)
 
