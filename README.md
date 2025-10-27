@@ -2,7 +2,7 @@
 
 Este projeto consiste em um dashboard de análise de vendas, desenvolvido integralmente no Power BI. O objetivo é consolidar os principais indicadores de performance (KPIs) e fornecer uma visão interativa do desempenho comercial, comparando resultados com o ano anterior.
 
-![Imagem do Dashboard](./imagens/img-dashboard.png)
+![Imagem do Dashboard](./imagens/img-dashboard.PNG)
 <!-- <img src="./imagens/img-dashboard.png" alt="Imagem do Dashboard" width="1024"/> -->
 ## 🔗 Dashboard Interativo
 
@@ -43,7 +43,7 @@ Foi implementado um **Esquema Estrela** (Star Schema) para otimizar a performanc
       * `dFuncionario` (conectada pela `ID_Vendedor`)
       * `dCliente` (conectada pela `ID_Cliente`)
 
-![Imagem do modelo das entidades](./imagens/img-modelo-dados.png)
+![Imagem do modelo das entidades](./imagens/img-modelo-dados.PNG)
 <!-- <img src="./imagens/img-modelo-dados.png" alt="Imagem do modelo das entidades" width="1024"/> -->
 ### 3\. Cálculos e Medidas (DAX)
 
